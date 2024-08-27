@@ -1,9 +1,9 @@
 [Plymouth Theme]
-Name=template
-Description=template
+Name=jplogo
+Description=jplogo
 Comment=created By Aditya Shakya (@adi1090x)
 ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/jplogo/images
-ScriptFile=/usr/share/plymouth/themes/jplogo/mtheme.script
+ScriptFile=/usr/share/plymouth/themes/jplogo/jplogo.script
